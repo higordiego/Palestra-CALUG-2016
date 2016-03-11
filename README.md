@@ -1,4 +1,3 @@
-### Palestra no CALUG 2016
 #Tema - MongoDB
 
 
